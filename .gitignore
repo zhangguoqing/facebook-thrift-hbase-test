@@ -1,0 +1,12 @@
+*.swp
+*.so
+
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+CMakeFiles/
+Testing/
+target/
+
+gen-*
